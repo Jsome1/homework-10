@@ -1,19 +1,21 @@
 # Homework 10
 
-🏠 Homework 10
-🎸 Music Store – Responsive Website
-📖 Project Description
+## 🏠 Homework 10
+
+## 🎸 Music Store – Responsive Website
+
+## 📖 Project Description
 
 This project represents a fully responsive multi-section website developed using HTML and CSS.
 The main goal of the assignment is to practice building a structured layout, applying responsive design principles, and ensuring correct visual adaptation across different screen sizes, ranging from 1440px down to 320px.
 The project follows the provided design and technical instructions and uses separate CSS files to manage responsiveness for various device breakpoints.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5
 CSS3
 
-📂 Project Structure
+## 📂 Project Structure
 
 project-folder/
 │
@@ -26,7 +28,7 @@ project-folder/
 │ └─ mobiles.css
 ├─ Images/
 
-✨ Features
+## ✨ Features
 
 Responsive header with logo, navigation menu, action button, and burger icon for smaller screens
 Hero section with background image and call-to-action element
@@ -38,15 +40,15 @@ Product images use percentage-based width, fixed height in pixels, and object-fi
 Footer includes navigation links, contact information, and linked social media icons
 Fully responsive layout optimized for desktop, laptop, tablet, and mobile devices
 
-🚀 Live Website
+## 🚀 Live Website
 
 https://jsome1.github.io/homework-10/
 
-📦 Repository
+## 📦 Repository
 
 https://github.com/Jsome1/homework-10.git
 
-👤 Author
+## 👤 Author
 
 Giorgi Khvedelidze
 
