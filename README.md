@@ -28,10 +28,10 @@ project-folder/
 
 ✨ Features
 
-Responsive header containing a logo, navigation menu, action button, and a burger icon for smaller screens
-Hero section with a background image and call-to-action element
-Product section displaying cards with responsive behavior
-Desktop view shows four cards in a grid layout
+Responsive header with logo, navigation menu, action button, and burger icon for smaller screens
+Hero section with background image and call-to-action element
+Product section with responsive card layout
+Desktop view displays four cards in a grid layout
 Laptop view switches to horizontal scrolling starting from 1300px
 Tablet and mobile views adapt the layout for smaller screens
 Product images use percentage-based width, fixed height in pixels, and object-fit: cover
@@ -40,11 +40,11 @@ Fully responsive layout optimized for desktop, laptop, tablet, and mobile device
 
 🚀 Live Website
 
-👉 https://jsome1.github.io/homework-10/
+https://jsome1.github.io/homework-10/
 
 📦 Repository
 
-👉 https://github.com/Jsome1/homework-10.git
+https://github.com/Jsome1/homework-10.git
 
 👤 Author
 
