@@ -1,0 +1,28 @@
+@media (max-width: 1300px) {
+  .header {
+    padding: 18px 64px;
+  }
+
+  .header_nav {
+    display: none;
+  }
+
+  .section1_inner {
+    padding-top: 100px;
+  }
+
+  .cards {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+  }
+
+  .card {
+    flex: 0 0 300px;
+  }
+
+  .footer {
+    padding: 64px 0;
+  }
+}
